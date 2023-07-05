@@ -52,6 +52,8 @@ Recordando que también debe ser posible convertir inversamente, es decir:
     - Conversor de Temperatura
     - Conversor de Distancia
 
+ ![imagen conversor](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/Untitled.png)
+
 
 ## Clase Main
 
@@ -145,7 +147,7 @@ Para mostrar las pantallas de la interfaz para el uso de la aplicacion. Hace uso
 		return opcion;
 	}
 
- ![imagen conversor](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/Untitled.png)
+
 
 
 
