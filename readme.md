@@ -83,7 +83,7 @@ Esta la funcion Temperatura() la cual contiene:
         opcionSeleccionada -> Object, seleccion del usuario de tipo a tipo de moneda
         df -> DecimalFormat, para mostrar la salida en el formato deseado
 
-El programa pide al usuario que ingrese la cantidad a convertir, luego el programa pide al usuario que seleccione el tipo de conversion de que moneda a que moneda sera, finalmente el programa dependiendo de la seleccion aplica la conversion y lo muestra en pantalla.
+El programa pide al usuario que ingrese la cantidad a convertir, luego el programa pide al usuario que seleccione el tipo de conversion de que grados a que grados sera, finalmente el programa dependiendo de la seleccion aplica la conversion y lo muestra en pantalla.
 
 ### Conversor de distancia
 Esta la funcion Distancia() la cual contiene:
@@ -91,7 +91,7 @@ Esta la funcion Distancia() la cual contiene:
         opcionSeleccionada -> Object, seleccion del usuario de tipo a tipo de moneda
         df -> DecimalFormat, para mostrar la salida en el formato deseado
 
-El programa pide al usuario que ingrese la cantidad a convertir, luego el programa pide al usuario que seleccione el tipo de conversion de que moneda a que moneda sera, finalmente el programa dependiendo de la seleccion aplica la conversion y lo muestra en pantalla.
+El programa pide al usuario que ingrese la cantidad a convertir, luego el programa pide al usuario que seleccione el tipo de conversion de que unidad a que unidad de distancia sera, finalmente el programa dependiendo de la seleccion aplica la conversion y lo muestra en pantalla.
 
 ## Pantallas
 
