@@ -145,6 +145,8 @@ Para mostrar las pantallas de la interfaz para el uso de la aplicacion. Hace uso
 		return opcion;
 	}
 
+ ![imagen conversor](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/Untitled.png)
+
 
 
 
